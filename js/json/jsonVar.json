@@ -151,7 +151,48 @@ var heroes = [
   },
   {
     "id": 5,
-    "name": "Benjamin"
+    "name": "Benjamin",
+    "icon": "img/heroes/ben.png"
+  },
+  {
+    "id": 6,
+    "name": "Pat Fusty",
+    "icon": "img/heroes/pat.png"
+  },
+  {
+    "id": 7,
+    "name": "Ezili",
+    "icon": "img/heroes/ezili.png"
+  },
+  {
+    "id": 8,
+    "name": "Adora",
+    "icon": "img/heroes/adora.png"
+   },
+  {
+    "id": 9,
+    "name": "Admiral Brickell",
+    "icon": "img/heroes/brick.png"
+  },
+  {
+    "id": 10,
+    "name": "Etienne",
+    "icon": "img/heroes/etienne.png"
+  },
+  {
+    "id": 11,
+    "name": "Sauda",
+    "icon": "img/heroes/sauda.png"
+  },
+  {
+    "id": 12,
+    "name": "Psi",
+    "icon": "img/heroes/psi.png"
+  },
+  {
+    "id": 13,
+    "name": "Geraldo",
+    "icon": "img/heroes/geraldo.png"
   }
 ];
 
